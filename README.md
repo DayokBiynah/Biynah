@@ -1,17 +1,15 @@
 # Data Scientist | Cybersecurity Enthusiast | AI & FinTech Explorer
 
----
 
 ![Big Data](https://www.revistaanfibia.com/wp-content/uploads/2017/02/Bigdata_portada_GIF_01-2.gif)
 
----
 
 🎯 **About Me**
 
 Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity Enthusiast** with a flair for blending cutting-edge tech with real-world impact. From machine learning models to secure cloud architectures, I love crafting data-driven solutions that power progress in **AI**, **FinTech**, and **Cybersecurity**. I thrive on curiosity, creativity, and collaboration.
 
 📬 **Let's Connect:**  
-📧 Email: biynahdayok1@gmail.com  
+📧 biynahdayok1@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/biynahdayok)  
 💻 [GitHub](https://github.com/dayokbiynah)
 
@@ -38,9 +36,6 @@ Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity En
 | 🔐 Cybersecurity | CompTIA A+, Network+, Security+, Data Privacy |
 | 💸 Finance & Blockchain | Cryptocurrency, Smart Contracts, DeFi |
 
-<p align="center">
-  ![Tech Stack](https://skillicons.dev/icons?i=python,java,jupyter,hadoop,spark,r,azure,sql,pandas,tableau,powerbi,linux,github,security&perline=6)
-</p>
 
 
 📂 **Highlighted Projects**
