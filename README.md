@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Biynah Dayok — Data Scientist | Cybersecurity Enthusiast | AI & FinTech Explorer
+# Biynah Dayok — Data Scientist | Cybersecurity Enthusiast | AI & FinTech Explorer
 
 ---
 
@@ -15,7 +15,6 @@ Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity En
 🔗 [LinkedIn](https://www.linkedin.com/in/biynahdayok)  
 💻 [GitHub](https://github.com/dayokbiynah)
 
----
 
 📜 **Certifications**
 
@@ -27,7 +26,6 @@ Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity En
 - 🛡️ CompTIA Security+ *(In Progress)*
 - 📈 Google Data Analytics
 
----
 
 🧠 **Skills & Tools**
 
@@ -44,7 +42,6 @@ Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity En
   ![Tech Stack](https://skillicons.dev/icons?i=python,java,jupyter,hadoop,spark,r,azure,sql,pandas,tableau,powerbi,linux,github,security&perline=6)
 </p>
 
----
 
 📂 **Highlighted Projects**
 
@@ -54,7 +51,6 @@ Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity En
 - 🌍 **Refugee Empowerment Program Analysis** — Leveraging ML to uncover actionable strategies for refugee support systems.
 - 💳 **MasterCard IGS Analysis** — Driving economic inclusion with data insights for underserved communities.
 
----
 
 🚀 **2025 Goals**
 
