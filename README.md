@@ -1,4 +1,4 @@
-# Biynah Dayok — Data Scientist | Cybersecurity Enthusiast | AI & FinTech Explorer
+# Data Scientist | Cybersecurity Enthusiast | AI & FinTech Explorer
 
 ---
 
