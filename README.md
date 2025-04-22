@@ -8,46 +8,9 @@
 
 Hey there! I'm **Biynah Dayok**, a dynamic **Data Scientist and Cybersecurity Enthusiast** with a flair for blending cutting-edge tech with real-world impact. From machine learning models to secure cloud architectures, I love crafting data-driven solutions that power progress in **AI**, **FinTech**, and **Cybersecurity**. I thrive on curiosity, creativity, and collaboration.
 
-📬 **Let's Connect:**  
-📧 biynahdayok1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/biynahdayok)  
-💻 [GitHub](https://github.com/dayokbiynah)
 
 
-📜 **Certifications**
-
-- 🎓 Azure Data Scientist Associate *(In Progress)*
-- 💰 Fintech (University of Pennsylvania)
-- 💻 CompTIA A+
-- 🌐 CompTIA Network+ *(In Progress)*
-- 📊 IBM Data Analytics
-- 🛡️ CompTIA Security+ *(In Progress)*
-- 📈 Google Data Analytics
-
-
-🧠 **Skills & Tools**
-
-| 🌟 Domain | 🔧 Tools & Technologies |
-|----------|--------------------------|
-| 💻 Programming | Python (Pandas, Seaborn), R, SQL, Java, C++ |
-| 📊 Visualization | Power BI, Tableau, Excel (Advanced) |
-| 🤖 Machine Learning | Scikit-learn, Deep Learning, Classification, Regression |
-| ☁️ Cloud & Big Data | Azure, Hadoop, Spark |
-| 🔐 Cybersecurity | CompTIA A+, Network+, Security+, Data Privacy |
-| 💸 Finance & Blockchain | Cryptocurrency, Smart Contracts, DeFi |
-
-
-
-📂 **Highlighted Projects**
-
-- 🔐 **Quantora** — AI-driven model for real-time trading and predictive insights in dynamic financial markets.
-- 📊 **NBPA Analysis** — Exploring rookie player performance and trade impact through data science.
-- 🧬 **CrypticLock-Ransomware** — A simulated ransomware tool focused on encryption logic and risk assessment.
-- 🌍 **Refugee Empowerment Program Analysis** — Leveraging ML to uncover actionable strategies for refugee support systems.
-- 💳 **MasterCard IGS Analysis** — Driving economic inclusion with data insights for underserved communities.
-
-
-🚀 **2025 Goals**
+🚀 **Current Goals**
 
 - ✅ Nail the Azure Data Scientist Certification
 - ✅ Wrap up Security+ and Network+ with flying colors
