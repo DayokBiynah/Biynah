@@ -106,6 +106,19 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=Eclipse)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=Jupyter)
 
+### Cybersecurity Tools:
+![Visual Studio](https://img.shields.io/badge/-Wireshark-000?logo=Wireshark)
+![Power BI](https://img.shields.io/badge/-Nmap-000?logo=Nmap)
+![Tableau](https://img.shields.io/badge/-Nessus-000?logo=Nessus)
+![Git](https://img.shields.io/badge/-Metasploit-000?logo=Metasploit)
+![Eclipse](https://img.shields.io/badge/-Kali-Linux-000?logo=Kali-Linux)
+
+### Networking & Infrastructure:
+![Visual Studio](https://img.shields.io/badge/-Cisco-Packet-Tracer-000?logo=Cisco-Packet-Tracer)
+![Power BI](https://img.shields.io/badge/-VLAN-configuration-000?logo=VLAN-configuration)
+![Tableau](https://img.shields.io/badge/-DNS/DHCP-setup-000?logo=DNS/DHCP-setup)
+![Git](https://img.shields.io/badge/-VPN-000?logo=VPN)
+![Eclipse](https://img.shields.io/badge/-firewalls-000?logo=firewalls)
 <br>
 
 ## 🔧 Hands-On Skills & Practical Experience
