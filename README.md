@@ -46,6 +46,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=SQL)
 ![PySpark](https://img.shields.io/badge/-PySpark-000?logo=Apache-Spark)
 ![Scala](https://img.shields.io/badge/-Scala-000?logo=Scala)
+![Java](https://img.shields.io/badge/-Java-000?logo=Java)
 
 ### ML Algorithms:
 ![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-000)
