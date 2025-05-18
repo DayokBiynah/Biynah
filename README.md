@@ -42,11 +42,13 @@
 
 ### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
-![R](https://img.shields.io/badge/-R-000?logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=SQL)
 ![PySpark](https://img.shields.io/badge/-PySpark-000?logo=Apache-Spark)
 ![Scala](https://img.shields.io/badge/-Scala-000?logo=Scala)
 ![Java](https://img.shields.io/badge/-Java-000?logo=Java)
+![Scala](https://img.shields.io/badge/-C++-000?logo=C++)
+![Scala](https://img.shields.io/badge/-HTML-000?logo=HTML)
+![Scala](https://img.shields.io/badge/-CSS-000?logo=CSS)
 
 ### ML Algorithms:
 ![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-000)
@@ -74,35 +76,15 @@
 
 ### Big Data technologies:
 ![Hadoop](https://img.shields.io/badge/-Hadoop-000?logo=Apache-Hadoop)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?logo=Apache-Airflow)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?logo=Apache-Spark)
 
 ### Cloud Technologies and Services:
-![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?logo=Microsoft-Azure)
-![Snowflake](https://img.shields.io/badge/-Snowflake-000?logo=Snowflake)
-![EC2](https://img.shields.io/badge/-EC2-000?logo=Amazon-EC2)
-![S3](https://img.shields.io/badge/-S3-000?logo=Amazon-S3)
-![Redshift](https://img.shields.io/badge/-Redshift-000?logo=Amazon-Redshift)
-![RDS](https://img.shields.io/badge/-RDS-000?logo=Amazon-RDS)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?logo=Amazon-DynamoDB)
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-000?logo=Amazon-AWS)
-![EMR](https://img.shields.io/badge/-EMR-000?logo=Amazon-EMR)
-![Kinesis](https://img.shields.io/badge/-Kinesis-000?logo=Amazon-Kinesis)
-![Lambda](https://img.shields.io/badge/-Lambda-000?logo=AWS-Lambda)
-![Athena](https://img.shields.io/badge/-Athena-000?logo=AWS-Athena)
-![Quick Sight](https://img.shields.io/badge/-Quick%20Sight-000?logo=AWS-QuickSight)
-![Firehose](https://img.shields.io/badge/-Firehose-000?logo=Amazon-Kinesis)
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-000?logo=AWS-Data-Pipeline)
-![CloudWatch](https://img.shields.io/badge/-CloudWatch-000?logo=Amazon-CloudWatch)
-![CloudTrail](https://img.shields.io/badge/-CloudTrail-000?logo=Amazon-CloudTrail)
-![IAM](https://img.shields.io/badge/-IAM-000?logo=AWS-IAM)
-![SSM](https://img.shields.io/badge/-SSM-000?logo=AWS-SSM)
 ![Security Hub](https://img.shields.io/badge/-Security%20Hub-000?logo=AWS-Security-Hub)
 ![Azure Data Bricks](https://img.shields.io/badge/-Azure%20Data%20Bricks-000?logo=Microsoft-Azure)
 ![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-000?logo=Microsoft-Azure)
 ![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-000?logo=Microsoft-Azure)
-![Akamai](https://img.shields.io/badge/-Akamai-000?logo=Akamai)
 ![Microservices](https://img.shields.io/badge/-Microservices-000?logo=Microservices)
 ![PAAS](https://img.shields.io/badge/-PAAS-000)
 ![IAAS](https://img.shields.io/badge/-IAAS-000)
@@ -112,22 +94,35 @@
 ![Pipelines](https://img.shields.io/badge/-Pipelines-000)
 
 ### Databases:
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-000?logo=Oracle)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![IBMDB](https://img.shields.io/badge/-IBMDB-000?logo=IBMDB)
 
 ### Misc Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?logo=Visual-Studio)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?logo=Power-BI)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?logo=Tableau)
 ![Git](https://img.shields.io/badge/-Git-000?logo=Git)
-![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-000?logo=AWS-CDK)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=Eclipse)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=Jupyter)
-![Cloud Endure](https://img.shields.io/badge/-Cloud%20Endure-000)
-![Kafka](https://img.shields.io/badge/-Kafka-000?logo=Apache-Kafka)
-![Jira](https://img.shields.io/badge/-Jira-000?logo=Jira)
+
+<br>
+
+## 🔧 Hands-On Skills & Practical Experience
+
+- ⚙️ Built and optimized hardware for data-intensive systems  
+- 💻 Automated OS deployment in data engineering setups  
+- 📱 Managed enterprise mobile security and endpoint protection  
+- 🌐 Configured Layer 2/3 devices for secure data networks  
+- 🧮 Designed scalable IP schemes and network segmentation  
+- 📶 Secured and optimized wireless networks for data integrity  
+- 🔍 Analyzed network traffic and troubleshot security incidents  
+- 🧵 Installed cabling and fiber optics for high-speed data pipelines  
+- 🤖 Developed and tuned ML models in Azure ML Studio  
+- 🧠 Created interpretable ML models with TensorFlow and SHAP/LIME  
+- ☁️ Deployed secure, scalable ML models with real-time APIs  
+- 🔄 Built CI/CD MLOps pipelines ensuring model governance and compliance  
+<br>
 
 ## 📫 Connect with me
 <p align="center">
