@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Data is a precious thing and will last longer than the systems themselves</h2></summary>
+    <summary><h2 style="display: inline-block">“Data is a precious thing and will last longer than the systems themselves.” — Tim Berners-Lee</h2></summary>
   </ul>
 </div>
 
