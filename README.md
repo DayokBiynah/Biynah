@@ -107,18 +107,18 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=Jupyter)
 
 ### Cybersecurity Tools:
-![Visual Studio](https://img.shields.io/badge/-Wireshark-000?logo=Wireshark)
-![Power BI](https://img.shields.io/badge/-Nmap-000?logo=Nmap)
-![Tableau](https://img.shields.io/badge/-Nessus-000?logo=Nessus)
-![Git](https://img.shields.io/badge/-Metasploit-000?logo=Metasploit)
-![Eclipse](https://img.shields.io/badge/-Kali-Linux-000?logo=Kali-Linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?logo=Wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-000?logo=Nmap)
+![Nessus](https://img.shields.io/badge/-Nessus-000?logo=Nessus)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?logo=Metasploit)
+![Kali Linux](https://img.shields.io/badge/-Kali-Linux-000?logo=Kali-Linux)
 
 ### Networking & Infrastructure:
-![Visual Studio](https://img.shields.io/badge/-Cisco-Packet-Tracer-000?logo=Cisco-Packet-Tracer)
-![Power BI](https://img.shields.io/badge/-VLAN-configuration-000?logo=VLAN-configuration)
-![Tableau](https://img.shields.io/badge/-DNS/DHCP-setup-000?logo=DNS/DHCP-setup)
-![Git](https://img.shields.io/badge/-VPN-000?logo=VPN)
-![Eclipse](https://img.shields.io/badge/-firewalls-000?logo=firewalls)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco-Packet-Tracer-000?logo=Cisco-Packet-Tracer)
+![VLAN configuration](https://img.shields.io/badge/-VLAN-configuration-000?logo=VLAN-configuration)
+![DNS/DHCP setup](https://img.shields.io/badge/-DNS/DHCP-setup-000?logo=DNS/DHCP-setup)
+![VPN](https://img.shields.io/badge/-VPN-000?logo=VPN)
+![firewalls](https://img.shields.io/badge/-firewalls-000?logo=firewalls)
 <br>
 
 ## 🔧 Hands-On Skills & Practical Experience
@@ -149,14 +149,10 @@
  </div>
 </p>
 
-<p align="center">
-Total visitors till now 👇❤️<br>
-<img src="https://profile-counter.glitch.me/Jashwanth/count.svg">
-</p>
-
 -------
-Credits: [Jashwanth](https://github.com/jashwanth0011)  
-Last Edited on: 02-22-2025
+![Data Science GIF](https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif)
+
+Thanks for stopping by! Drop a ⭐️ on a project or reach out to collab — let's build something epic together 🔐📊🚀
 
 
 
@@ -211,6 +207,4 @@ Last Edited on: 02-22-2025
   
 ---
 
-![Data Science GIF](https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif)
 
-Thanks for stopping by! Drop a ⭐️ on a project or reach out to collab — let's build something epic together 🔐📊🚀
