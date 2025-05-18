@@ -163,9 +163,7 @@ Last Edited on: 02-22-2025
 
 # 👋 Hi! I'm Biynah!  
 
-### 🚀 Software Engineer(Data & Security)  
 
-While I have a broad passion for technology, my deepest interests lie in data science and cybersecurity—fields that present distinct challenges and dynamic opportunities for continuous growth.  
 
 ---
 
