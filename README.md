@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">“Data is a precious thing and will last longer than the systems themselves.” — Tim Berners-Lee</h2></summary>
+    <summary><h2 style="display: inline-block">“Data is a precious thing and will last longer than the systems themselves.” — Tim Berners</h2></summary>
   </ul>
 </div>
 
@@ -27,6 +27,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
+
 - 👋 Hello there! I'm a passionate Data Engineer with over a year of experience in designing robust data pipelines and scalable data architectures. 
 - While I have a broad passion for technology, my deepest interests lie in data science and cybersecurity—fields that present distinct challenges and dynamic opportunities for continuous growth. 
 - Proficient in leveraging advanced analytics and machine learning techniques using Python, R, PySpark and SQL to drive data-driven decision-making, yielding a increase in operational efficiency.
