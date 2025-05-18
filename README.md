@@ -6,6 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Biynah</h1></summary>
+    <summary><h1 style="display: inline-block">Software Engineer(Data & Security)</h1></summary>
   </ul>
 </div>
 
@@ -21,12 +22,11 @@
   </ul>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-- 🚀 Software Engineer(Data & Security)   
 - 👋 Hello there! I'm a passionate Data Engineer with over a year of experience in designing robust data pipelines and scalable data architectures. 
 - While I have a broad passion for technology, my deepest interests lie in data science and cybersecurity—fields that present distinct challenges and dynamic opportunities for continuous growth. 
 - Proficient in leveraging advanced analytics and machine learning techniques using Python, R, PySpark and SQL to drive data-driven decision-making, yielding a increase in operational efficiency.
