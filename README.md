@@ -112,13 +112,6 @@
 ![Nessus](https://img.shields.io/badge/-Nessus-000?logo=Nessus)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000?logo=Metasploit)
 ![Kali Linux](https://img.shields.io/badge/-Kali-Linux-000?logo=Kali-Linux)
-
-### Networking & Infrastructure:
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco-Packet-Tracer-000?logo=Cisco-Packet-Tracer)
-![VLAN configuration](https://img.shields.io/badge/-VLAN-configuration-000?logo=VLAN-configuration)
-![DNS/DHCP setup](https://img.shields.io/badge/-DNS/DHCP-setup-000?logo=DNS/DHCP-setup)
-![VPN](https://img.shields.io/badge/-VPN-000?logo=VPN)
-![firewalls](https://img.shields.io/badge/-firewalls-000?logo=firewalls)
 <br>
 
 ## 🔧 Hands-On Skills & Practical Experience
@@ -140,11 +133,11 @@
 ## 📫 Connect with me
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/jashwanthreddy3579/">
+        <a target="_blank" href="https://www.linkedin.com/in/biynahdayok/">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Jashwanth0011">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/DayokBiynah">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:jashwanthmyjob@gmail.com">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:biynahdayok1@gmail.com">
             <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
  </div>
 </p>
@@ -153,58 +146,3 @@
 ![Data Science GIF](https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif)
 
 Thanks for stopping by! Drop a ⭐️ on a project or reach out to collab — let's build something epic together 🔐📊🚀
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Hi! I'm Biynah!  
-
-
-
----
-
-## 💻 My Tech Stack  
-
-- **Languages**: Python, C/C++, Java, Linux, SQL, HTML, CSS
-- **Data Tools & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Jupyter, Azure Machine Learning, Power BI, Matplotlib, Seaborn, Tableau
-- **Data Engineering & Cloud**: Azure Data Factory, Azure Synapse, SQL Server, Apache Spark, MySQL, IBM DB, Git
-- **Cybersecurity Tools**: Wireshark, Nmap, Nessus, Metasploit, Kali Linux
-- **Networking & Infrastructure**: Cisco Packet Tracer, pfSense, UFW, iptables, VLAN configuration, DNS/DHCP setup, VPN, firewalls
-
----
-
-## 🔧 Hands-On Skills & Practical Experience
-
-- ⚙️ Built and optimized hardware for data-intensive systems  
-- 💻 Automated OS deployment in data engineering setups  
-- 📱 Managed enterprise mobile security and endpoint protection  
-- 🌐 Configured Layer 2/3 devices for secure data networks  
-- 🧮 Designed scalable IP schemes and network segmentation  
-- 📶 Secured and optimized wireless networks for data integrity  
-- 🔍 Analyzed network traffic and troubleshot security incidents  
-- 🧵 Installed cabling and fiber optics for high-speed data pipelines  
-- 🤖 Developed and tuned ML models in Azure ML Studio  
-- 🧠 Created interpretable ML models with TensorFlow and SHAP/LIME  
-- ☁️ Deployed secure, scalable ML models with real-time APIs  
-- 🔄 Built CI/CD MLOps pipelines ensuring model governance and compliance  
-
----
-
-## 🌱 Currently Building:
-
-- Azure Data Scientist Associate.  
-- An NBPA analysis.
-  
----
-
-
