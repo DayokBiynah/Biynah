@@ -111,7 +111,7 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-000?logo=Nmap)
 ![Nessus](https://img.shields.io/badge/-Nessus-000?logo=Nessus)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000?logo=Metasploit)
-![Kali Linux](https://img.shields.io/badge/-Kali-Linux-000?logo=Kali-Linux)
+![Kali-Linux](https://img.shields.io/badge/-Kali-Linux-000?logo=Kali-Linux)
 <br>
 
 ## 🔧 Hands-On Skills & Practical Experience
