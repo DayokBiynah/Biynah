@@ -111,23 +111,6 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-000?logo=Nmap)
 ![Nessus](https://img.shields.io/badge/-Nessus-000?logo=Nessus)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000?logo=Metasploit)
-<br>
-
-## 🔧 Hands-On Skills & Practical Experience
-
-- ⚙️ Built and optimized hardware for data-intensive systems  
-- 💻 Automated OS deployment in data engineering setups  
-- 📱 Managed enterprise mobile security and endpoint protection  
-- 🌐 Configured Layer 2/3 devices for secure data networks  
-- 🧮 Designed scalable IP schemes and network segmentation  
-- 📶 Secured and optimized wireless networks for data integrity  
-- 🔍 Analyzed network traffic and troubleshot security incidents  
-- 🧵 Installed cabling and fiber optics for high-speed data pipelines  
-- 🤖 Developed and tuned ML models in Azure ML Studio  
-- 🧠 Created interpretable ML models with TensorFlow and SHAP/LIME  
-- ☁️ Deployed secure, scalable ML models with real-time APIs  
-- 🔄 Built CI/CD MLOps pipelines ensuring model governance and compliance  
-<br>
 
 ## 📫 Connect with me
 <p align="center">
